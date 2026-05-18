@@ -16,7 +16,6 @@ const zakaria = {
   alias:     "Zaakiinho",
   location:  "Brussels, Belgium 🇧🇪",
   education: "Bachelier en Informatique @ HELB Ilya Prigogine",
-  currently: "Internship @ AG Insurance — Web & Marketing dept.",
 
   ctf: {
     handle:       "Zaakiinho",
