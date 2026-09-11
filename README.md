@@ -45,7 +45,7 @@ const zakaria = {
 | 🥇 CSCBE 2026 Qualifiers | **1st place** (solo) | — |
 | 🏆 CSCBE 2026 Finals | **7th place** (1350 pts) | TripleMooonstre |
 | 🥇 CyberCrusade CTF @ HELB | **1st place** (12,195 pts) | SPECTRE OPS |
-| 🎯 Odoo Hackathon | **1st place** | HELB team |
+| 🎯 Odoo Hackathon | **3st place** | HELB team |
 
 </div>
 
